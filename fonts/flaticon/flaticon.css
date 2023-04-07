@@ -1,0 +1,203 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?ea54568429950849e3bb4832b1ce1df3") format("truetype"),
+url("./flaticon.woff?ea54568429950849e3bb4832b1ce1df3") format("woff"),
+url("./flaticon.woff2?ea54568429950849e3bb4832b1ce1df3") format("woff2"),
+url("./flaticon.eot?ea54568429950849e3bb4832b1ce1df3#iefix") format("embedded-opentype"),
+url("./flaticon.svg?ea54568429950849e3bb4832b1ce1df3#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-h2o:before {
+    content: "\f101";
+}
+.flaticon-flash:before {
+    content: "\f102";
+}
+.flaticon-wifi-router:before {
+    content: "\f103";
+}
+.flaticon-tv:before {
+    content: "\f104";
+}
+.flaticon-policeman:before {
+    content: "\f105";
+}
+.flaticon-school-bus:before {
+    content: "\f106";
+}
+.flaticon-bus:before {
+    content: "\f107";
+}
+.flaticon-improvement:before {
+    content: "\f108";
+}
+.flaticon-supermarket:before {
+    content: "\f109";
+}
+.flaticon-supermarket-1:before {
+    content: "\f10a";
+}
+.flaticon-food:before {
+    content: "\f10b";
+}
+.flaticon-gym:before {
+    content: "\f10c";
+}
+.flaticon-stationary-bicycle:before {
+    content: "\f10d";
+}
+.flaticon-town-hall:before {
+    content: "\f10e";
+}
+.flaticon-library:before {
+    content: "\f10f";
+}
+.flaticon-tv-1:before {
+    content: "\f110";
+}
+.flaticon-tennis-court:before {
+    content: "\f111";
+}
+.flaticon-football-court:before {
+    content: "\f112";
+}
+.flaticon-shuttlecock:before {
+    content: "\f113";
+}
+.flaticon-squash:before {
+    content: "\f114";
+}
+.flaticon-outside:before {
+    content: "\f115";
+}
+.flaticon-basketball:before {
+    content: "\f116";
+}
+.flaticon-bowling:before {
+    content: "\f117";
+}
+.flaticon-ping-pong:before {
+    content: "\f118";
+}
+.flaticon-billiard:before {
+    content: "\f119";
+}
+.flaticon-toboggan:before {
+    content: "\f11a";
+}
+.flaticon-swimming:before {
+    content: "\f11b";
+}
+.flaticon-jacuzzi:before {
+    content: "\f11c";
+}
+.flaticon-sauna:before {
+    content: "\f11d";
+}
+.flaticon-parking:before {
+    content: "\f11e";
+}
+.flaticon-bathtub:before {
+    content: "\f11f";
+}
+.flaticon-telephone:before {
+    content: "\f120";
+}
+.flaticon-air-conditioning:before {
+    content: "\f121";
+}
+.flaticon-sprinkler:before {
+    content: "\f122";
+}
+.flaticon-insecticide:before {
+    content: "\f123";
+}
+.flaticon-recycle-bin:before {
+    content: "\f124";
+}
+.flaticon-living-room:before {
+    content: "\f125";
+}
+.flaticon-window:before {
+    content: "\f126";
+}
+.flaticon-curtains:before {
+    content: "\f127";
+}
+.flaticon-closet:before {
+    content: "\f128";
+}
+.flaticon-parquet:before {
+    content: "\f129";
+}
+.flaticon-tile:before {
+    content: "\f12a";
+}
+.flaticon-bedside-lamp:before {
+    content: "\f12b";
+}
+.flaticon-wardrobe:before {
+    content: "\f12c";
+}
+.flaticon-lights:before {
+    content: "\f12d";
+}
+.flaticon-dresser:before {
+    content: "\f12e";
+}
+.flaticon-shower:before {
+    content: "\f12f";
+}
+.flaticon-kitchen:before {
+    content: "\f130";
+}
+.flaticon-refrigerator:before {
+    content: "\f131";
+}
+.flaticon-gas-range:before {
+    content: "\f132";
+}
+.flaticon-fire-extinguisher:before {
+    content: "\f133";
+}
+.flaticon-restaurant:before {
+    content: "\f134";
+}
+.flaticon-chair:before {
+    content: "\f135";
+}
+.flaticon-cabinet:before {
+    content: "\f136";
+}
+.flaticon-cooker:before {
+    content: "\f137";
+}
+.flaticon-sofa:before {
+    content: "\f138";
+}
+.flaticon-leaves:before {
+    content: "\f139";
+}
+.flaticon-laundry:before {
+    content: "\f13a";
+}
+.flaticon-tap:before {
+    content: "\f13b";
+}
+.flaticon-condominium:before {
+    content: "\f13c";
+}
+.flaticon-villa:before {
+    content: "\f13d";
+}
